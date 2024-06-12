@@ -151,4 +151,4 @@ pass : Miesedap0077#
 Akses wordpress :
 username : admin
 pass : MtZxQGvwC)@v&(p$bN
-Link Drive hasil 
+Link Drive hasil : https://docs.google.com/document/d/1lF7sfohqDK0MlxHxHUlHpZVPVGOVkwn8/edit?usp=drivesdk&ouid=114350269961549068137&rtpof=true&sd=true
