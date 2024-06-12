@@ -112,10 +112,7 @@ hak akses chown -R www-data:www-data *
 kemudian testing : laravel.muchib.efs.my.id
 
 ## Konfigurasi PHP:
-buat oncek.php di /var/www/html buat testing.
-<?php
-phpinfo();
->?
+buat oncek.php di /var/www/html buat testing.<?php phpinfo(); >?
 
 masuk ke php.ini kemudian ganti menjadi nilai berikut.
 
@@ -146,12 +143,12 @@ sudo certbot --nginx -d laravel.muchib.efs.my.id
 ### pilih 
 Y (all)
 
-
 ## Akses Login Database MySQL :
 
 username : wordpress_user
 pass : Miesedap0077# 
 
-## Akses wordpress :
+Akses wordpress :
 username : admin
 pass : MtZxQGvwC)@v&(p$bN
+Link Drive hasil 
