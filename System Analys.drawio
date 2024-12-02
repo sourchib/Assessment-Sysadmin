@@ -13,7 +13,7 @@
         <mxCell id="WPaRE0VmJOY2hlFo49CF-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WPaRE0VmJOY2hlFo49CF-1">
           <mxGeometry x="90" y="30" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPaRE0VmJOY2hlFo49CF-4" value="Memasukkan Username dan Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WPaRE0VmJOY2hlFo49CF-1">
+        <mxCell id="WPaRE0VmJOY2hlFo49CF-4" value="masukkan username dan password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WPaRE0VmJOY2hlFo49CF-1">
           <mxGeometry x="45" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPaRE0VmJOY2hlFo49CF-2" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="WPaRE0VmJOY2hlFo49CF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WPaRE0VmJOY2hlFo49CF-2" source="WPaRE0VmJOY2hlFo49CF-5" target="WPaRE0VmJOY2hlFo49CF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WPaRE0VmJOY2hlFo49CF-5" value="Login autentifikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WPaRE0VmJOY2hlFo49CF-2">
+        <mxCell id="WPaRE0VmJOY2hlFo49CF-5" value="login autentifikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WPaRE0VmJOY2hlFo49CF-2">
           <mxGeometry x="50" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPaRE0VmJOY2hlFo49CF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WPaRE0VmJOY2hlFo49CF-2" source="WPaRE0VmJOY2hlFo49CF-6" target="WPaRE0VmJOY2hlFo49CF-7">
@@ -44,7 +44,7 @@
         <mxCell id="WPaRE0VmJOY2hlFo49CF-6" value="c&lt;span style=&quot;background-color: initial;&quot;&gt;ond&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WPaRE0VmJOY2hlFo49CF-2">
           <mxGeometry x="90" y="160" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WPaRE0VmJOY2hlFo49CF-7" value="Notifikasi login gagal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WPaRE0VmJOY2hlFo49CF-2">
+        <mxCell id="WPaRE0VmJOY2hlFo49CF-7" value="notifikasi login gagal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WPaRE0VmJOY2hlFo49CF-2">
           <mxGeometry x="50" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPaRE0VmJOY2hlFo49CF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WPaRE0VmJOY2hlFo49CF-2" source="WPaRE0VmJOY2hlFo49CF-9" target="WPaRE0VmJOY2hlFo49CF-10">
