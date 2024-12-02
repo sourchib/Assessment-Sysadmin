@@ -4,7 +4,10 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="3a17f1ce550125da-1" value="Software Control" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+        <mxCell id="3v7FFB050ICYYZrDS47B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3a17f1ce550125da-1" target="3v7FFB050ICYYZrDS47B-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3a17f1ce550125da-1" value="&amp;nbsp;Data Layer (Database)" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="797" y="344" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3a17f1ce550125da-13" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" parent="1" source="3a17f1ce550125da-2" target="3a17f1ce550125da-4" edge="1">
@@ -57,14 +60,14 @@
         <mxCell id="3a17f1ce550125da-9" value="Middleware" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="597" y="634" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3a17f1ce550125da-10" value="DUT" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="3a17f1ce550125da-10" value="Presentation Layer (Frontend)" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="799.5" y="774" width="145" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3a17f1ce550125da-18" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" parent="1" source="3a17f1ce550125da-11" target="3a17f1ce550125da-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3a17f1ce550125da-11" value="DC Power Supplies" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="597" y="804" width="120" height="60" as="geometry" />
+        <mxCell id="3a17f1ce550125da-11" value="React.js atau Vue.js,&amp;nbsp;Tailwind CSS" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="590" y="800" width="127" height="74" as="geometry" />
         </mxCell>
         <mxCell id="3a17f1ce550125da-22" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" parent="1" source="3a17f1ce550125da-10" target="3a17f1ce550125da-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -115,6 +118,9 @@
               <mxPoint x="847" y="764" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3v7FFB050ICYYZrDS47B-1" value="MySQL atau PostgreSQL" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1037" y="344" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
